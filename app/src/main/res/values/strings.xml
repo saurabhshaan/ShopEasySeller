@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShopKart Seller</string>
+    <string-array name="SelectType">
+        <item>Choose Category</item>
+        <item>Mens Fashion</item>
+        <item>Womens Fashion</item>
+        <item>Kids Fashion</item>
+        <item>Accessories</item>
+        <item>Home Appliences</item>
+        <item>Phone</item>
+        <item>Phone Accessories</item>
+        <item>Computer</item>
+        <item>Computer Accessories</item>
+        <item>Kitchen</item>
+        <item>Health</item>
+        <item>Home Decoration</item>
+        <item>Books</item>
+        <item>Bike and Car</item>
+    </string-array>
+</resources>
